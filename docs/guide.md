@@ -10,3 +10,6 @@
 
 ## Update 16
 - Improvement made on 2025-09-13
+
+## Update 36
+- Improvement made on 2025-10-03
