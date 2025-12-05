@@ -20,3 +20,7 @@ Project description.
 
 ## Update 35
 - Improvement made on 2025-10-02
+
+## December 2025 - January 2026 Update 1
+- Enhancement made on 2025-12-05
+- New year improvements
